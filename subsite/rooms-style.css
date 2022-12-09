@@ -1,0 +1,57 @@
+.main-header {
+    background: url(/img/dome2/interior1.jpg);
+    background-size: cover;
+    background-position: 100% 35%;
+    height: 500px;
+}
+/* NavBar */
+nav {
+    background-color: #354d59;
+}
+.logo {
+    display: inline-block;
+    height: 100%;
+}
+.logo>img {
+    height: 60px;
+    vertical-align: middle;
+    padding-bottom: 3px;
+}
+.nav-link-style {
+    color: #ded9d4;
+}
+/* SideNav */
+.sidenav-icon-style {
+    color: #ded9d4;
+}
+.sidenav-style {
+    background-color: #a49488;
+}
+/* Rooms */
+.rooms-section {
+    background-color: #a49488;
+}
+h1 {
+    font-family: 'Lucida Console', serif;
+    color: #354d59;
+}
+h4 {
+    font-family: Georgia, sans-serif;
+    color: #354d59;
+}
+h6 {
+    font-family: Georgia, sans-serif;
+    color: #ded9d4;
+}
+.materialboxed {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
+/* Footer */
+.page-footer {
+    background-color: #354d59;
+}
+.footer-text-style {
+    color: #ded9d4;
+}

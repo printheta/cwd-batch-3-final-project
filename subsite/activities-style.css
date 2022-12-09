@@ -1,0 +1,64 @@
+/* NavBar */
+nav {
+    background-color: #354d59;
+}
+.logo {
+    display: inline-block;
+    height: 100%;
+}
+.logo>img {
+    height: 60px;
+    vertical-align: middle;
+    padding-bottom: 3px;
+}
+.nav-link-style {
+    color: #ded9d4;
+}
+/* SideNav */
+.sidenav-icon-style {
+    color: #ded9d4;
+}
+.sidenav-style {
+    background-color: #a49488;
+}
+/* Activities */
+.mark-h1 {
+    color: #6c8483;
+    background-color: #ded9d4;
+    font-family: 'Lucida Console', serif;
+}
+.mark-h4 {
+    color: #6c8483;
+    background-color: #ded9d4;
+    opacity: 80%;
+    font-family: Georgia, sans-serif;
+}
+.swimming-section {
+    background: url(/img/activities/swimming.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+    height: fit-content;
+    padding-bottom: 200px;
+    padding-top: 50px;
+}
+.bonfire-section {
+    background: url(/img/activities/bonfire.jpg);
+    background-size: cover;
+    background-position: 100% 40%;
+    height: fit-content;
+    padding-bottom: 200px;
+}
+.boodlefight-section {
+    background: url(/img/activities/boodlefight.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+    height: fit-content;
+    padding-bottom: 200px;
+}
+/* Footer */
+.page-footer {
+    background-color: #354d59;
+}
+.footer-text-style {
+    color: #ded9d4;
+}

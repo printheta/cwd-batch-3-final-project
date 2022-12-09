@@ -1,0 +1,251 @@
+.main-header {
+    background: url(/img/dome1/aerial.jpg);
+    background-size: cover;
+    height: fit-content;
+}
+/* NavBar */
+nav {
+    background-color: #354d59;
+}
+.logo {
+    display: inline-block;
+    height: 100%;
+}
+.logo>img {
+    height: 60px;
+    vertical-align: middle;
+    padding-bottom: 3px;
+}
+.nav-link-style {
+    color: #ded9d4;
+}
+/* SideNav */
+.sidenav-icon-style {
+    color: #ded9d4;
+}
+.sidenav-style {
+    background-color: #a49488;
+}
+/* Header */
+.main-header .showcase {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+.header-mark {
+    background-color: #a49488;
+    color: white;
+    font-family: Georgia, sans-serif;
+    font-style: italic;
+}
+.header-mark-brand {
+    background-color: #a49488;
+    color: #ded9d4;
+    font-family: 'Lucida Console', serif;
+    color: #ded9d4;
+}
+/* Gallery */
+.gallery-section {
+    background-color: #a49488;
+}
+.gallery-h1 {
+    font-family: 'Lucida Console', serif;
+    color: #ded9d4;
+}
+.gallery-carousel .carousel-item>img {
+    width: 200%;
+    margin-left: -50%;
+    margin-top: -25%;
+    margin-bottom: -60%;
+}
+.gallery-text {
+    font-family: Georgia, sans-serif;
+    color: white;
+}
+.gallery-text-italic {
+    font-family: Georgia, sans-serif;
+    font-style: italic;
+    color: white;
+}
+/* Rooms */
+.rooms-section {
+    background-color: #a49488;
+}
+.rooms-h1 {
+    font-family: 'Lucida Console', serif;
+    color: #ded9d4;
+}
+.rooms-btn {
+    background-color: #ded9d4;
+    color: #6c8483;
+}
+.rooms-mark-h2 {
+    background-color: #6c8483;
+    color: white;
+    font-family: 'Lucida Console', serif;
+}
+.rooms-mark-p {
+    background-color: #6c8483;
+    color: white;
+    font-family: Georgia, sans-serif;
+    font-style: italic;
+}
+/* Table of Contents */
+.pin-top {
+    position: relative;
+}
+.pin-bottom {
+    position: relative;
+}
+.pinned {
+    position: fixed;
+}
+/* Dome 1 */
+.dome1-panel1 {
+    background: url(img/dome1/interior2.jpg);
+    background-size: cover;
+    background-position: 100% 60%;
+}
+.dome1-panel2 {
+    background: url(img/dome1/kitchen.jpg);
+    background-size: cover;
+    background-position: 100% 35%;
+}
+.dome1-panel3 {
+    background: url(img/dome1/exterior1.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.dome1-panel4 {
+    background: url(img/dome1/dock2.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+}
+/* Dome 2 */
+.dome2-panel1 {
+    background: url(img/dome2/interior6.jpg);
+    background-size: cover;
+    background-position: 100% 60%;
+}
+.dome2-panel2 {
+    background: url(img/dome2/bathroom.jpg);
+    background-size: cover;
+    background-position: 100% 35%;
+}
+.dome2-panel3 {
+    background: url(img/dome2/exterior1.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.dome2-panel4 {
+    background: url(img/dome2/dock.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+}
+/* Twin Dome */
+.twindome-panel1 {
+    background: url(img/dome3_4/interior3.jpg);
+    background-size: cover;
+    background-position: 100% 60%;
+}
+.twindome-panel2 {
+    background: url(img/dome3_4/bathroom4.jpg);
+    background-size: cover;
+    background-position: 100% 35%;
+}
+.twindome-panel3 {
+    background: url(img/dome3_4/exterior1.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.twindome-panel4 {
+    background: url(img/dome3_4/exterior4.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+}
+/* Dome 5 */
+.dome5-panel1 {
+    background: url(img/dome5/interior9.jpg);
+    background-size: cover;
+    background-position: 100% 60%;
+}
+.dome5-panel2 {
+    background: url(img/dome5/kitchen.jpg);
+    background-size: cover;
+    background-position: 100% 35%;
+}
+.dome5-panel3 {
+    background: url(img/dome5/exterior5.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.dome5-panel4 {
+    background: url(img/dome5/interior1.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+}
+/* Dome 6 */
+.dome6-panel1 {
+    background: url(img/dome6/interior2.jpg);
+    background-size: cover;
+    background-position: 100% 60%;
+}
+.dome6-panel2 {
+    background: url(img/dome6/kitchen2.jpg);
+    background-size: cover;
+    background-position: 100% 35%;
+}
+.dome6-panel3 {
+    background: url(img/dome6/exterior3.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.dome6-panel4 {
+    background: url(img/dome6/exterior8.jpg);
+    background-size: cover;
+    background-position: 100% 70%;
+}
+/* Activities */
+.activities-section {
+    background-color: #a49488;
+}
+.activities-h1 {
+    font-family: 'Lucida Console', serif;
+    color: #ded9d4;
+}
+.activities-h4 {
+    font-family: Georgia, sans-serif;
+    color: #6c8483;
+}
+.activities-h6 {
+    font-family: Georgia, sans-serif;
+    font-style: italic;
+    color: white;
+}
+.activities-space {
+    height: 5px;
+}
+.swimming-img {
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 100% 60%;
+}
+.bonfire-img {
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+    object-position: 100% 35%;
+}
+.boodlefight-img {
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 100% 60%;
+}
+/* Footer */
+.page-footer {
+    background-color: #354d59;
+}
+.footer-text-style {
+    color: #ded9d4;
+}
